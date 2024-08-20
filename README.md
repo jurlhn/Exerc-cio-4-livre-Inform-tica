@@ -5,7 +5,16 @@ Ele foi fundado em 1985 por Hayao Miyazaki, Isao Takahata, Toshio Suzuki e Yasuy
 
 Com filmes conhecidos por todo o mundo, representando e abordando diversos assuntos, com sua anim,ação colorida e criativa, cativando todas as idades. Agora, mais de duas décadas após receber um Oscar por A Viagem de Chihiro, o estúdio Ghibli e seu diretor Hayao Miyazaki conquistaram sua terceira estatueta. Lançado em 2023, O Menino e a Garça pode ser o último filme do mestre de animação.
 
+# Diretores <h1>
+- Hayao Miyazaki
+-  Takahata
+- Yoshifumi Kondo
+- Goro Miyazaki
+- Hiroyuki Morita
+- Hiromasa Yonebayashi
+
 # Museu <h1>
 Localizado em Mitaka, Tóquio, o Museu Ghibli é um espaço de arte totalmente dedicado às obras do Studio Ghibli.
 Elaborado pelo próprio Hayao Miyazaki, o projeto foi influenciado pela arquitetura européia, como a vila de Calcata, na Itália. Seu planejamento começou em 1998. Já a construção começou em Março de 2000, e foi aberto oficialmente 01 de Outubro de 2001.
 Em si é uma obra caprichosamente desenhada que remete aos diferentes filmes, e muitos de seus famosos personagens estão lá, incluindo o robô em tamanho real de Laputa no jardim da cobertura.
+Ele conta com uma sala de animação, Jardim da Cobertura, atrações como Tri Hawk’s, Mamma Aiuto!, Straw Hat Cafe entre outros.
