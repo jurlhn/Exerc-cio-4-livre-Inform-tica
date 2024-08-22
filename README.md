@@ -6,12 +6,37 @@ Ele foi fundado em 1985 por Hayao Miyazaki, Isao Takahata, Toshio Suzuki e Yasuy
 Com filmes conhecidos por todo o mundo, representando e abordando diversos assuntos, com sua anim,ação colorida e criativa, cativando todas as idades. Agora, mais de duas décadas após receber um Oscar por A Viagem de Chihiro, o estúdio Ghibli e seu diretor Hayao Miyazaki conquistaram sua terceira estatueta. Lançado em 2023, O Menino e a Garça pode ser o último filme do mestre de animação.
 
 # Diretores <h1>
-- Hayao Miyazaki
--  Takahata
-- Yoshifumi Kondo
-- Goro Miyazaki
-- Hiroyuki Morita
-- Hiromasa Yonebayashi
+- Hayao Miyazaki.
+- Takahata.
+- Yoshifumi Kondo.
+- Goro Miyazaki.
+- Hiroyuki Morita.
+- Hiromasa Yonebayashi.
+
+# Filmografia <h1>
+- Nausicaä do Vale do Vento (1984)
+- O Castelo no Céu (1986)
+- Meu Amigo Totoro (1988)
+- Túmulo dos Vagalumes (1988)
+- O Serviço de Entregas da Kiki (1989)
+- Memórias de Ontem (1991)
+- Porco Rosso: O Último Herói Romântico (1992)
+- Eu Posso Ouvir o Oceano (1993)
+- PomPoko: A Grande Batalha dos Guaxinins (1994)
+- Sussurros do Coração (1995)
+- Princesa Mononoke (1997)
+- Meus Vizinhos os Yamadas (1999)
+- A Viagem de Chihiro (2001)
+- O Reino dos Gatos (2002)
+- O Castelo Animado (2004)
+- Contos de Terramar (2006)
+- Ponyo: Uma Amizade Que Veio do Mar (2008)
+- O Mundo dos Pequeninos (2010)
+- Da Colina Kokuriko (2011)
+- Vidas ao Vento (2013)
+- O Conto da Princesa Kaguya (2013)
+- As Memórias de Marnie (2014)
+- O Menino e a Garça (2023)
 
 # Museu <h1>
 Localizado em Mitaka, Tóquio, o Museu Ghibli é um espaço de arte totalmente dedicado às obras do Studio Ghibli.
