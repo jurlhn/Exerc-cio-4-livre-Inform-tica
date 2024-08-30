@@ -20,29 +20,38 @@ Com filmes conhecidos por todo o mundo, representando e abordando diversos assun
 # Filmografia <h1>
 ![stuio ghilbi](https://github.com/user-attachments/assets/28c47122-ec3c-4f17-b6f1-e7112b84be7f)
 
-- Nausicaä do Vale do Vento (1984)
-- O Castelo no Céu (1986)
-- Meu Amigo Totoro (1988)
-- Túmulo dos Vagalumes (1988)
-- O Serviço de Entregas da Kiki (1989)
-- Memórias de Ontem (1991)
-- Porco Rosso: O Último Herói Romântico (1992)
-- Eu Posso Ouvir o Oceano (1993)
-- PomPoko: A Grande Batalha dos Guaxinins (1994)
-- Sussurros do Coração (1995)
-- Princesa Mononoke (1997)
-- Meus Vizinhos os Yamadas (1999)
-- A Viagem de Chihiro (2001)
-- O Reino dos Gatos (2002)
-- O Castelo Animado (2004)
-- Contos de Terramar (2006)
-- Ponyo: Uma Amizade Que Veio do Mar (2008)
-- O Mundo dos Pequeninos (2010)
-- Da Colina Kokuriko (2011)
-- Vidas ao Vento (2013)
-- O Conto da Princesa Kaguya (2013)
-- As Memórias de Marnie (2014)
-- O Menino e a Garça (2023)
+| Filmes  | Ano |
+| ------------- | ------------- |
+| Nausicaä do Vale do Vento | 1984 |
+| O Castelo no Céu | 1986 |
+| Meu Amigo Totoro | 1988 |
+| Túmulo dos Vagalumes | 1988 |
+| O Serviço de Entregas da Kiki | 1989 |
+| Memórias de Ontem | 1991 |
+| Porco Rosso: O Último Herói Romântico | 1992 |
+| Eu Posso Ouvir o Oceano  Porco Rosso: O Último Herói Romântico | 1992 |
+| Eu Posso Ouvir o Oceano | 1993 |
+| PomPoko: A Grande Batalha dos Guaxinins | 1994 |
+| Sussurros do Coração | 1995 |
+| Princesa Mononoke | 1997 |
+| Meus Vizinhos os Yamadas | 1999 |
+| A Viagem de Chihiro | 2001 |
+| O Reino dos Gatos | 2002 |
+| O Castelo Animado | 2004 |
+| Contos de Terramar | 2006 |
+| Ponyo: Uma Amizade Que Veio do Mar | 2008 |
+| O Mundo dos Pequeninos | 2010 |
+| Da Colina Kokuriko | 2011 |
+| Vidas ao Vento | 2013 |
+| O Conto da Princesa Kaguya | 2013 |
+| As Memórias de Marnie | 2014 |
+| O Menino e a Garça | 2023 |
+
+
+
+
+
+
 
 # Museu <h1>
 ![museu](https://github.com/user-attachments/assets/160e6ee0-f60b-489b-81c1-2ab51fafac28)
